@@ -11,4 +11,8 @@
         <remote name="kernel"
                 fetch="https://github.com/manojkrishkumar" />
         <project path="kernel/xiaomi/laurel_sprout" name="android_kernel_xiaomi_laurel_sprout" remote="kernel" revision="lineage-18.1" clone-depth="1" />
+        
+        <remote name="camera"
+                fetch="https://github.com/manojkrishkumar" />
+        <project path="vendor/miuicamera" name="vendor_miuicamera" remote="camera" revision="R" clone-depth="1" />
 </manifest>
