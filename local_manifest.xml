@@ -2,11 +2,11 @@
 <manifest>
         <remote name="device"
                 fetch="https://github.com/schrodingerscatonline" />
-        <project path="device/xiaomi/laurel_sprout" name="android_device_xiaomi_laurel_sprout" remote="device" revision="evo" clone-depth="1" />
+        <project path="device/xiaomi/laurel_sprout" name="android_devices_xiaomi_laurel_sprout" remote="device" revision="evo" clone-depth="1" />
         
         <remote name="vendor"
-                fetch="https://github.com/itstarzan" />
-        <project path="vendor/xiaomi/laurel_sprout" name="vendor_xiaomi_laurel_sprout" remote="vendor" revision="snow" clone-depth="1" />
+                fetch="https://github.com/magicxavi />
+        <project path="vendor/xiaomi/laurel_sprout" name="android_vendor_xiaomi_laurel_sprout" remote="vendor" revision="fw11_S" clone-depth="1" />
 
         <remote name="kernel"
                 fetch="https://github.com/magicxavi" />
