@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
         <remote name="device"
-                fetch="https://github.com/schrodingerscat" />
+                fetch="https://github.com/schrodingerscatonline" />
         <project path="device/xiaomi/laurel_sprout" name="android_device_xiaomi_laurel_sprout" remote="device" revision="superior" clone-depth="1" />
         
         <remote name="vendor"
