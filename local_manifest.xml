@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
         <remote name="device"
-                fetch="https://github.com/schrodingerscatonline" />
-        <project path="device/xiaomi/laurel_sprout" name="device_xiaomi_laurel_sprout" remote="device" revision="xtended" clone-depth="1" />
+                fetch="https://github.com/anirudhkosgi" />
+        <project path="device/xiaomi/laurel_sprout" name="device_xiaomi_laurel_sprout" remote="device" revision="AEX-12" clone-depth="1" />
         
         <remote name="vendor"
                 fetch="https://github.com/anirudhkosgi" />
